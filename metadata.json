@@ -1,0 +1,6 @@
+{
+  "name": "Editable POS Receipt Generator 1",
+  "description": "An interactive web application that allows users to create and edit a point-of-sale (POS) receipt. All fields, including line items, totals, barcode, and QR code, are dynamically editable and update in real-time.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
