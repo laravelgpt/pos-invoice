@@ -2,9 +2,9 @@ import { useState, useMemo, useCallback } from 'react';
 import { ReceiptData, LineItem } from '../types';
 
 const initialData: ReceiptData = {
-  companyName: 'MANAR AL JUBAIL TRADING CO. LLC',
-  crNo: '2055129755',
-  street: 'HAIL STREET',
+  companyName: 'MAHAL MIDA TRANDING EST.',
+  crNo: '2055237669',
+  street: 'KING STREET',
   city: 'AL JUBAIL',
   taxNo: '311301306700003',
   title: 'Simplified tax Invoice',
