@@ -14,22 +14,10 @@ const initialData: ReceiptData = {
   user: 'Admin',
   orderNo: '273',
   lineItems: [
-    { id: '1', name: 'MOBILY 20', quantity: 1013, unitPrice: 19.55 },
-    { id: '2', name: 'ZAIN 20', quantity: 616, unitPrice: 19.42 },
-    { id: '3', name: 'FRIENDI 20', quantity: 1, unitPrice: 19.10 },
-    { id: '4', name: 'FRIENDI 15', quantity: 303, unitPrice: 14.32 },
-    { id: '5', name: 'MOBILY 57.50', quantity: 57, unitPrice: 56.23 },
-    { id: '6', name: 'MOBILY 115', quantity: 21, unitPrice: 112.46 },
-    { id: '7', name: 'MOBILY 34.50', quantity: 52, unitPrice: 33.72 },
-    { id: '8', name: 'SAWA 115', quantity: 74, unitPrice: 113.05 },
-    { id: '9', name: 'SAWA 20', quantity: 273, unitPrice: 19.70 },
-    { id: '10', name: 'SAWA 57.50', quantity: 74, unitPrice: 56.60 },
-    { id: '11', name: 'ZAIN 115', quantity: 24, unitPrice: 112.00 },
-    { id: '12', name: 'ZAIN 34.50', quantity: 25, unitPrice: 33.54 },
-    { id: '13', name: 'ZAIN 57.50', quantity: 42, unitPrice: 56.00 },
+  
   ],
-  cash: 67255.84,
-  paidAmount: 67255.84,
+  cash: 0,
+  paidAmount: 0,
   
   // Initial values for labels
   currencySymbol: 'SAR.',
